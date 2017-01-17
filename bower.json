@@ -1,0 +1,21 @@
+{
+  "name": "learnreact",
+  "version": "0.0.0",
+  "dependencies": {
+    "requirejs": "~2.1.9",
+    "almond": "latest",
+    "modernizr": "~2.6.2",
+    "react": "~0.5.1"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
+  "description": "learn react",
+  "main": "",
+  "authors": [
+    "renhg"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
